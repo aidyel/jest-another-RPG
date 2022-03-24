@@ -1,0 +1,23 @@
+{
+  "name": "jest-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidyel/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidyel/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/aidyel/jest-another-RPG#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
