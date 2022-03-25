@@ -56,7 +56,7 @@ test('shecks if playe is alive or not', () => {
 
 });
 
-test("subtravks from player's health", () => {
+test("subtracs from player's health", () => {
     const player = new Player('dave');
     const oldHealth = player.health;
 
